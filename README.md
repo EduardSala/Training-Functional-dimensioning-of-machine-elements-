@@ -15,8 +15,20 @@ The objective is to showcase my ability to:
 - organize CAD data and documentation following an **industry-oriented workflow**.
 
 The exercises are based on the book  
-*“Quotatura funzionale degli organi di macchine”*  
+*[“Quotatura funzionale degli organi di macchine”](https://www.amazon.it/Quotatura-funzionale-degli-organi-macchine/dp/8879922203)*  
 and are solved independently as part of my **professional development**.
+
+---
+
+## 💡 Approach & Mindset
+Although the solutions for these exercises are available in the textbook, I have chosen to approach them **independently** for training and professional development purposes. 
+
+My process involves:
+* **Independent Execution**: Developing the 3D models and dimensional chains from scratch before consulting the book's solutions.
+* **Critical Analysis**: Comparing my results with the textbook's guidelines to refine my understanding of functional requirements and GD&T application.
+* **Professional Standards**: Treating each exercise as a real-world task, applying industry-standard folder structures and documentation methods.
+
+---
 
 ---
 
@@ -31,7 +43,7 @@ Each exercise is structured as a **self-contained mechanical design project**, r
 ```text
 functional-dimensioning-practice/
 │
-├── 01-XXXXX/
+├── 01-AAAA/
 │   ├── Assembly/                 # Assembly models and references
 │   ├── Calculations/             # Tolerance chains and analytical calculations
 │   ├── Doc/                      # Problem description and technical notes
@@ -42,10 +54,10 @@ functional-dimensioning-practice/
 │       ├── SLDPRT/               # Native SolidWorks part files
 │       └── STEP/                 # Neutral CAD format exports
 │
-├── 02-YYYYY/
+├── 02-AAAA/
 │   └── ...
 │
-└── AA-Template/                   # Template used for new exercises
+└── XX-AAAA/                   # Template used for new exercises
 ```
 
 This structure emphasizes **clarity, traceability, and separation of responsibilities** between modeling, drawings, calculations, and documentation.
@@ -73,8 +85,6 @@ Special attention is given to:
 - separation between **native CAD files** and **neutral formats**,
 - clear linkage between **parts, assemblies, and drawings**.
 
-This mirrors best practices commonly adopted in **manufacturing, quality, and airworthiness-oriented environments**.
-
 ---
 
 ## ⚠️ Disclaimer
@@ -84,8 +94,15 @@ All rights to the original material belong to the respective author and publishe
 
 ---
 
-## 👤 Author
+## 👨‍💻 About Me
 
-**Eduard**  
-Aerospace Engineer – Propulsion Systems background  
-Interested in **manufacturing, quality, and airworthiness engineering roles**
+### Professional Summary
+*Aerospace Engineer with a solid background in CFD, structural analysis, and turbomachinery aerodynamics. I combine a multidisciplinary analytical approach with a strong hands-on attitude, valuing direct interaction with physical hardware and practical troubleshooting. I excel in reducing the complexity of large systems through structured reasoning and programming-based solutions. Passionate about R&D environments, I aim to turn innovative ideas into concrete engineering solutions through CAE simulation and experimental testing."
+
+### Let's Connect!
+* [**LinkedIn**](https://www.linkedin.com/in/eduard-salahoru/)
+* [**GitHub**](https://github.com/EduardSala)
+* **Email**: esalahoru@gmail.com
+
+---
+
