@@ -1,5 +1,5 @@
 # ⚙️ Functional Dimensioning & Tolerancing  
-### Practical Engineering Exercises Portfolio
+### Practical Engineering Exercises
 
 ---
 
