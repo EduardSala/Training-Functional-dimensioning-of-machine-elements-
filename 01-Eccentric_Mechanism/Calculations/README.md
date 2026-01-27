@@ -22,3 +22,5 @@
 ![Fitting-05](screenshot-fitting-05.jpg)
 
 ---
+
+Fittings _04_ and _05_ were not compatible. The reference book has used these fittings but the calculations led to a _NEGATIVE_ cleareance!
