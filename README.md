@@ -30,8 +30,6 @@ My process involves:
 
 ---
 
----
-
 ## 🧩 Repository Organization
 
 Each exercise is structured as a **self-contained mechanical design project**, reflecting how work is typically organized in an industrial environment.
@@ -89,8 +87,8 @@ Special attention is given to:
 
 ## ⚠️ Disclaimer
 
-The original exercises are used exclusively for **personal study and portfolio purposes**.  
-All rights to the original material belong to the respective author and publisher.
+The original exercises are used exclusively for personal study and portfolio purposes.
+No commercial use is intended. All rights to the original material belong to the respective author and publisher.
 
 ---
 
