@@ -33,6 +33,6 @@ The mechanical assembly consists of three main functional stages:
 * **CAD Software:** [Inserisci il nome del software, es. SolidWorks / Inventor / Fusion 360]
 * **Microsoft Excel:** Used to create a dedicated database of **ISO 2768** deviation data. I transcribed all the tolerance values into an Excel file to streamline the functional dimensioning process and ensure quick, error-free lookup of mechanical fits.
 
-  ![Screenshot-excel-01](Screenshot-01.jpg)
+  ![Screenshot-excel-01](Calculations/Screenshot-01.jpg)
   ---
-  ![Screenshot-excel-02](Screenshot-02.jpg)
+  ![Screenshot-excel-02](Calculations/Screenshot-02.jpg)
