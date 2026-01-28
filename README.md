@@ -92,15 +92,3 @@ No commercial use is intended. All rights to the original material belong to the
 
 ---
 
-## 👨‍💻 About Me
-
-### Professional Summary
-*Aerospace Engineer with a solid background in CFD, structural analysis, and turbomachinery aerodynamics. I combine a multidisciplinary analytical approach with a strong hands-on attitude, valuing direct interaction with physical hardware and practical troubleshooting. I excel in reducing the complexity of large systems through structured reasoning and programming-based solutions. Passionate about R&D environments, I aim to turn innovative ideas into concrete engineering solutions through CAE simulation and experimental testing."
-
-### Let's Connect!
-* [**LinkedIn**](https://www.linkedin.com/in/eduard-salahoru/)
-* [**GitHub**](https://github.com/EduardSala)
-* **Email**: esalahoru@gmail.com
-
----
-
