@@ -24,15 +24,17 @@ The mechanical assembly consists of three main functional stages:
 ## Technical Features
 
 * **Functional Dimensioning:** Each component has been designed following a top-down approach, ensuring that tolerances and fits support the overall mechanical objective.
-* **Materials & Fits:** Special attention was given to the contact surfaces between the shaft, bushing, and disc to minimize wear and ensure smooth operation.
+* **Materials & Fits:** Special attention was given to the contact surfaces between the shaft, bushing, and disc to minimize wear and ensure smooth operation. Implemented a check to MMC and LMC conditions to ensure assembly functionality.
 * **Mechanical Standards:** Design references and symbols follow international technical drawing standards (ISO/UNI).
 
 ---
 
 ## Tools Used
 * **CAD Software:** [Inserisci il nome del software, es. SolidWorks / Inventor / Fusion 360]
-* **Microsoft Excel:** Used to create a dedicated database of **ISO 2768** deviation data. I transcribed all the tolerance values into an Excel file to streamline the functional dimensioning process and ensure quick, error-free lookup of mechanical fits.
+* **Microsoft Excel:** I developed a dedicated calculation tool to manage ISO deviations. The tool automatically verifies the assembly conditions at MMC and LMC, ensuring that the Minimum Clearance is always maintained above the functional threshold.
 
   ![Screenshot-excel-01](Calculations/Screenshot-01.jpg)
   ---
   ![Screenshot-excel-02](Calculations/Screenshot-02.jpg)
+  ---
+  ![Screenshot-excel-02](Calculations/Screenshot-03.jpg)
